@@ -17,10 +17,11 @@
 > cat about_me.txt
 ```
 
-- 🎓 CSE (Cyber Security) student @ **Jain University** 
+- 🎓 CSE (Cyber Security) student @ **Jain University** — USN `25BTRCC011`
 - 🔐 Building **forensics tooling, threat-intel platforms, and network security systems** — working software, not toy demos
 - 🤖 Deep into **AI-assisted security** — deepfake/media forensics, autonomous robotics, voice assistants
 - 🛠️ Full-stack when the project needs it: FastAPI backends, glassmorphic dark-UI frontends
+- 🏆 Hackathon builder — TCOE India Emerging Technologies Hackathon 2026 and others
 - ⚡ Currently: breaking things on purpose so I can patch them properly
 
 <br/>
@@ -125,27 +126,27 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 <table>
 <tr>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/hacker.png" width="72"/><br/>
+<div style="font-size:56px;">🛡️</div>
 <sub><b>Threat Detection</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/firewall.png" width="72"/><br/>
+<div style="font-size:56px;">🧱</div>
 <sub><b>Network Defense</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/spy.png" width="72"/><br/>
+<div style="font-size:56px;">🕵️</div>
 <sub><b>Digital Forensics</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/bot.png" width="72"/><br/>
+<div style="font-size:56px;">🧠</div>
 <sub><b>AI Security</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/lock-2.png" width="72"/><br/>
+<div style="font-size:56px;">🔐</div>
 <sub><b>Encryption</b></sub>
 </td>
 <td align="center" width="16%">
-<img src="https://img.icons8.com/3d-fluency/94/robot-3.png" width="72"/><br/>
+<div style="font-size:56px;">🦾</div>
 <sub><b>Robotics / IoT</b></sub>
 </td>
 </tr>
