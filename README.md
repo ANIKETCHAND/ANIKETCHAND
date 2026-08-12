@@ -100,7 +100,7 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 ## `> cat tech_stack.json`
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,cpp&theme=dark" /><br/>
 
 ### Backend & Data
 <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,postgres,react,nodejs&theme=dark" /><br/>
@@ -170,7 +170,7 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 </div>
 
-> ⚠️ Same honesty flag as before — all of these are 0 until repos go public. Design's ready; data just needs you to push.
+> ✅ Your GitHub stats are already live — 283+ commits, 413 contributions this year, contributions to 17 repos. These widgets pull from your real activity, not just your own repos, so they're populating correctly right now.
 
 <br/>
 
@@ -184,6 +184,6 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
