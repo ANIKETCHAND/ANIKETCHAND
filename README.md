@@ -21,6 +21,7 @@
 - 🔐 Building **forensics tooling, threat-intel platforms, and network security systems** — working software, not toy demos
 - 🤖 Deep into **AI-assisted security** — deepfake/media forensics, autonomous robotics, voice assistants
 - 🛠️ Full-stack when the project needs it: FastAPI backends, glassmorphic dark-UI frontends
+- 🏆 Hackathon builder — TCOE India Emerging Technologies Hackathon 2026 and others
 - ⚡ Currently: breaking things on purpose so I can patch them properly
 
 <br/>
@@ -171,6 +172,18 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 </div>
 
 > ✅ Your GitHub stats are already live — 283+ commits, 413 contributions this year, contributions to 17 repos. These widgets pull from your real activity, not just your own repos, so they're populating correctly right now.
+
+<br/>
+
+<div align="center">
+
+## `> ./contribution_calendar.sh`
+
+[![Aniket's github stats](https://ghchart.rshah.org/00ff41/ANIKETCHAND)](https://github.com/ANIKETCHAND)
+
+</div>
+
+> 📅 This is your real daily-commit heatmap — same data as the "413 contributions in the last year" calendar on your profile, just rendered inline here in matrix-green.
 
 <br/>
 
