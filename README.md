@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b0a,100:00ff41&height=230&section=header&text=ANIKET%20CHAND&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b0a,100:00ff41&height=230&section=header&text=ANIKET%20CHANDRA&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40aniket%3A~%24+whoami;sudo+break+--to-defend;Cyber+Security+%40+Jain+University;Building+AI-powered+forensics+%26+threat-intel+tools" alt="Typing SVG" />
 
@@ -185,6 +185,6 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100%" width="100%"/>
 
 </div>
