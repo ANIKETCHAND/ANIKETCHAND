@@ -21,7 +21,6 @@
 - 🔐 Building **forensics tooling, threat-intel platforms, and network security systems** — working software, not toy demos
 - 🤖 Deep into **AI-assisted security** — deepfake/media forensics, autonomous robotics, voice assistants
 - 🛠️ Full-stack when the project needs it: FastAPI backends, glassmorphic dark-UI frontends
-- 🏆 Hackathon builder — TCOE India Emerging Technologies Hackathon 2026 and others
 - ⚡ Currently: breaking things on purpose so I can patch them properly
 
 <br/>
@@ -160,8 +159,8 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 ## `> ./run_stats.sh`
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANIKETCHAND&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIKETCHAND&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=ANIKETCHAND&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ANIKETCHAND&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="42%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANIKETCHAND&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="49%"/>
 
@@ -197,6 +196,6 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=130&section=footer&reversal=true&text=Let's%20Build%20Something%20Together%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=60&strokeWidth=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 
 </div>
