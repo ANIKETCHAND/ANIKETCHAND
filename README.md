@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=ANIKET%20CHAND&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b0a,100:00ff41&height=230&section=header&text=ANIKET%20CHAND&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40aniket%3A~%24+whoami;Cybersecurity+%26+Forensics+Builder;AI-Powered+Threat+Intel+Systems;Jain+University+%7C+CSE+%E2%80%94+Cyber+Security;sudo+build+--project%3D%22something+cool%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40aniket%3A~%24+whoami;sudo+break+--to-defend;Cyber+Security+%40+Jain+University;Building+AI-powered+forensics+%26+threat-intel+tools" alt="Typing SVG" />
 
 <br/>
 
@@ -18,15 +18,19 @@
 ```
 
 - 🎓 CSE (Cyber Security) student @ **Jain University** — USN `25BTRCC011`
-- 🔐 I build **forensics tooling, threat-intel platforms, and network security systems** — not toy projects, working ones
+- 🔐 Building **forensics tooling, threat-intel platforms, and network security systems** — working software, not toy demos
 - 🤖 Deep into **AI-assisted security** — deepfake/media forensics, autonomous robotics, voice assistants
 - 🛠️ Full-stack when the project needs it: FastAPI backends, glassmorphic dark-UI frontends
 - 🏆 Hackathon builder — TCOE India Emerging Technologies Hackathon 2026 and others
-- ⚡ Fun fact: I'd rather ship a working detector than write a 10-page README about it (ironic, I know)
+- ⚡ Currently: breaking things on purpose so I can patch them properly
 
 <br/>
 
+<div align="center">
+
 ## `> ls ./featured-projects/`
+
+</div>
 
 <table width="100%">
 <tr>
@@ -60,8 +64,8 @@ Passive **DNS spoofing / MITM detection** tool
 Autonomous **AI-robotics cybersecurity platform**
 
 - Built for TCOE India Emerging Technologies Hackathon 2026
-- Combines physical robotics with autonomous threat response
-- **Stack:** `Python` · `AI/ML` · `Robotics`
+- AI cognitive engine + cybersecurity modules + ROS2 robotics + IoT/edge infra
+- **Stack:** `Python` · `ROS2` · `AI/ML`
 
 </td>
 <td width="50%" valign="top">
@@ -80,64 +84,59 @@ Autonomous **AI-robotics cybersecurity platform**
 <td colspan="2" valign="top">
 
 ### 🏠 SAATHI + 🎙️ FRIDAY
-Household cleaning robot (SAATHI) and voice-assistant system (FRIDAY) — hackathon-built, real-world oriented
+Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and voice-controlled desktop AI assistant (FRIDAY)
 
-- **Stack:** `Python` · `Robotics/IoT` · `Voice AI`
+- **Stack:** `Python` · `Arduino/ESP32` · `Voice AI` · `IoT`
 
 </td>
 </tr>
 </table>
 
-> 📌 *Repos are being made public on a rolling basis — check back for live links.*
+> 📌 *Repos going public on a rolling basis — links will be added as they drop.*
 
 <br/>
 
-## `> cat tech_stack.json`
-
 <div align="center">
 
-**Languages & Core**
+## `> cat tech_stack.json`
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff41)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp&theme=dark" /><br/>
 
-**Backend & Frameworks**
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,postgres,react,nodejs&theme=dark" /><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff41)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff41)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff41)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41)
+### Security & Networking
+<img src="https://skillicons.dev/icons?i=wireshark,kali,linux,bash&theme=dark" /><br/>
 
-**Security & Forensics Tooling**
+### AI / ML & Hardware
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,arduino,raspberrypi&theme=dark" /><br/>
 
-![Scapy](https://img.shields.io/badge/Scapy-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff41)
-![Shodan](https://img.shields.io/badge/Shodan-0d1117?style=for-the-badge&logo=shodan&logoColor=00ff41)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff41)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman&theme=dark" />
 
 </div>
 
 <br/>
 
-## `> ./run_stats.sh`
+<div align="center">
+
+## `> ./render_3d_contributions.sh`
+
+<img src="https://raw.githubusercontent.com/ANIKETCHAND/ANIKETCHAND/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIKETCHAND/profile-3d-contrib/main/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/ANIKETCHAND/profile-3d-contrib/main/profile-night-rainbow.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
 
 <div align="center">
+
+## `> ./run_stats.sh`
 
 <img src="https://github-readme-stats.vercel.app/api?username=ANIKETCHAND&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIKETCHAND&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="42%"/>
@@ -146,19 +145,18 @@ Household cleaning robot (SAATHI) and voice-assistant system (FRIDAY) — hackat
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIKETCHAND&bg_color=0d1117&color=00ff41&line=39ff14&point=c9d1d9&area=true&hide_border=true" width="98%"/>
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=ANIKETCHAND&theme=matrix&no-frame=true&margin-w=8&row=1&column=6" width="98%"/>
 
-> ⚠️ Stats will look empty until repos go public — that's a GitHub API limitation, not a bug in this README.
+</div>
 
 <br/>
 
-## `> connect --to=aniket`
-
 <div align="center">
 
-<!-- 🔧 EDIT THESE — placeholders, no real links on file yet -->
+## `> connect --to=aniket`
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOUR-HANDLE)
+[![Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your.email@example.com)
 
 <br/>
