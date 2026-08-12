@@ -179,10 +179,9 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 ## `> connect --to=aniket`
 
-<!-- 🔧 EDIT THESE — placeholders, no real links on file yet -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/aniket-chandra-a3b281386/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/Anikethacker007)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/aniket___chandra/)
 
 <br/>
 
