@@ -121,14 +121,36 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <div align="center">
 
-## `> ./render_3d_contributions.sh`
+## `> ./cyber_ops.sh --domains`
 
-<img src="https://raw.githubusercontent.com/ANIKETCHAND/ANIKETCHAND/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIKETCHAND/profile-3d-contrib/main/profile-night-rainbow.svg">
-  <img src="https://raw.githubusercontent.com/ANIKETCHAND/profile-3d-contrib/main/profile-night-rainbow.svg" width="100%"/>
-</picture>
+<table>
+<tr>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/hacker.png" width="72"/><br/>
+<sub><b>Threat Detection</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/firewall.png" width="72"/><br/>
+<sub><b>Network Defense</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/spy.png" width="72"/><br/>
+<sub><b>Digital Forensics</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/bot.png" width="72"/><br/>
+<sub><b>AI Security</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/lock-2.png" width="72"/><br/>
+<sub><b>Encryption</b></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.icons8.com/3d-fluency/94/robot-3.png" width="72"/><br/>
+<sub><b>Robotics / IoT</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -149,12 +171,15 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 </div>
 
+> ⚠️ Same honesty flag as before — all of these are 0 until repos go public. Design's ready; data just needs you to push.
+
 <br/>
 
 <div align="center">
 
 ## `> connect --to=aniket`
 
+<!-- 🔧 EDIT THESE — placeholders, no real links on file yet -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Twitter](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:your.email@example.com)
