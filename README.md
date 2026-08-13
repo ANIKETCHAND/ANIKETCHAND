@@ -102,14 +102,10 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,cpp&theme=dark" /><br/>
 
-### Backend & Data
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,postgres,react,nodejs&theme=dark" /><br/>
 
 ### Security & Networking
 <img src="https://skillicons.dev/icons?i=wireshark,kali,linux,bash&theme=dark" /><br/>
 
-### AI / ML & Hardware
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,arduino,raspberrypi&theme=dark" /><br/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman&theme=dark" />
