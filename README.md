@@ -17,7 +17,7 @@
 > cat about_me.txt
 ```
 
-- 🎓 CSE (Cyber Security) student @ **Jain University** — USN `25BTRCC011`
+- 🎓 CSE (Cyber Security) student @ **Jain University** 
 - 🔐 Building **forensics tooling, threat-intel platforms, and network security systems** — working software, not toy demos
 - 🤖 Deep into **AI-assisted security** — deepfake/media forensics, autonomous robotics, voice assistants
 - 🛠️ Full-stack when the project needs it: FastAPI backends, glassmorphic dark-UI frontends
