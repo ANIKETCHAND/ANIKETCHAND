@@ -1,21 +1,15 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b0a,100:00ff41&height=230&section=header&text=ANIKET%20CHANDRA&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
 
 ```
-      ___           ___           ___           ___           ___
-     /\  \         /\  \         /\  \         /\  \         /\  \
-    /::\  \       /::\  \       /::\  \       /::\  \       /::\  \
-   /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \
-  /::\~\:\  \   /::\~\:\  \   /:/  \:\  \   /::\~\:\  \   /::\~\:\  \
- /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
- \/__\:\/:/  / \/_|::\/:/  / \:\  \  \/__/ \/_|::\/:/  / \/__\:\/:/  /
-      \::/  /     |:|::/  /   \:\  \          |:|::/  /       \::/  /
-      /:/  /      |:|\/__/     \:\  \         |:|\/__/        /:/  /
-     /:/  /       |:|  |        \:\__\        |:|  |         /:/  /
-     \/__/         \|__|         \/__/         \|__|         \/__/
+ ██╗  ██╗ █████╗  ██████╗██╗  ██╗
+ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝
+ ███████║███████║██║     █████╔╝ 
+ ██╔══██║██╔══██║██║     ██╔═██╗ 
+ ██║  ██║██║  ██║╚██████╗██║  ██╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 
-              [ SYSTEM ONLINE ]  [ ACCESS: ROOT ]  [ STATUS: BREACHING DEFENSES ]
+        [ root@aniket:~# whoami ]
+   [ SYSTEM ONLINE ] [ ACCESS: ROOT ]
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40aniket%3A~%24+whoami;sudo+break+--to-defend;Cyber+Security+%40+Jain+University;Building+AI-powered+forensics+%26+threat-intel+tools" alt="Typing SVG" />
@@ -31,8 +25,6 @@
 ![Access](https://img.shields.io/badge/ACCESS-GRANTED-00ff41?style=for-the-badge&labelColor=0d1117)
 ![Encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-00ff41?style=for-the-badge&labelColor=0d1117)
 ![Threat](https://img.shields.io/badge/THREAT__LEVEL-MONITORING-00ff41?style=for-the-badge&labelColor=0d1117)
-
-</div>
 
 <br/>
 
@@ -63,8 +55,6 @@
 
 <br/>
 
-<div align="center">
-
 ## `> cat tech_stack.json`
 
 ### Languages
@@ -76,11 +66,7 @@
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,postman&theme=dark" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ## `> ./cyber_ops.sh --domains`
 
@@ -113,11 +99,7 @@
 </tr>
 </table>
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ## `> ./run_stats.sh`
 
@@ -130,8 +112,6 @@
 
 <br/>
 
-</div>
-
 > 📅 Live stats pulled straight from your GitHub activity, rendered matrix-green.
 
 <br/>
@@ -142,8 +122,6 @@
 
 <br/>
 
-<div align="center">
-
 ## `> connect --to=aniket`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/aniket-chandra-a3b281386/)
@@ -153,5 +131,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=130&section=footer&reversal=true&text=Let's%20Build%20Something%20Together%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlign=50&fontAlignY=60&strokeWidth=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
-
-</div>
