@@ -166,12 +166,6 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIKETCHAND&bg_color=0d1117&color=00ff41&line=39ff14&point=c9d1d9&area=true&hide_border=true" width="98%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ANIKETCHAND&theme=matrix&no-frame=true&margin-w=8&row=1&column=6" width="98%"/>
-
-</div>
-
-> ✅ Your GitHub stats are already live — 283+ commits, 413 contributions this year, contributions to 17 repos. These widgets pull from your real activity, not just your own repos, so they're populating correctly right now.
-
 <br/>
 
 <div align="center">
