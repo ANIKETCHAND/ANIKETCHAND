@@ -168,12 +168,6 @@ Household cleaning robot (SAATHI, Arduino/ESP32-based autonomous mopping) and vo
 
 <br/>
 
-<div align="center">
-
-## `> ./contribution_calendar.sh`
-
-[![Aniket's github stats](https://ghchart.rshah.org/00ff41/ANIKETCHAND)](https://github.com/ANIKETCHAND)
-
 </div>
 
 > 📅 This is your real daily-commit heatmap — same data as the "413 contributions in the last year" calendar on your profile, just rendered inline here in matrix-green.
