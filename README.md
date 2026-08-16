@@ -99,6 +99,19 @@
 </tr>
 </table>
 
+<br/>
+
+## `> ./run_stats.sh`
+
+<img src="https://github-readme-stats.shion.dev/api?username=ANIKETCHAND&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ANIKETCHAND&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="42%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANIKETCHAND&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIKETCHAND&bg_color=0d1117&color=00ff41&line=39ff14&point=c9d1d9&area=true&hide_border=true" width="98%"/>
+
+
+
 
 <br/>
 
