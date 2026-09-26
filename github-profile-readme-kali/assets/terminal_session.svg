@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 575" width="100%" height="575">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;display=swap');
+
+      .bg { fill: #050505; stroke: #1f2430; stroke-width: 1.5; }
+      .titlebar { fill: #12151a; }
+      .term-title { fill: #7a7a7a; font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 11.5px; }
+      .win-ctrl { fill: #5c6370; font-family: 'Space Mono', monospace; font-size: 12px; }
+      .win-icon-box { fill: #0d1117; stroke: #00f0ff; stroke-width: 1; }
+      .win-icon-txt { fill: #00f0ff; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; }
+
+      .term-text { font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13.5px; letter-spacing: 0.3px; }
+      .box { fill: #5c6370; }
+      .user-host { fill: #27c93f; font-weight: 700; }
+      .at { fill: #ff0055; font-weight: 700; }
+      .sep { fill: #555555; }
+      .path { fill: #00f0ff; }
+      .dollar { fill: #ff0055; font-weight: 700; }
+      .cmd { fill: #FCEE0A; font-weight: 700; }
+      .out-status { fill: #00f0ff; }
+      .out-interest { fill: #e6edf3; }
+      .bullet { fill: #00f0ff; font-weight: 700; }
+      .nmap-head { fill: #7d8590; font-weight: 700; }
+      .nmap-port { fill: #00f0ff; }
+      .nmap-open { fill: #27c93f; font-weight: 700; }
+      .nmap-svc { fill: #f0f6fc; }
+      .cursor { animation: blink 0.8s infinite step-end; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scanline { fill: url(#scanline-grad); opacity: 0.10; animation: scroll-scanline 6s infinite linear; }
+      @keyframes scroll-scanline { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+    </style>
+
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="100%" height="100%" rx="8" />
+  <path d="M 0,8 A 8,8 0 0,1 8,0 L 792,0 A 8,8 0 0,1 800,8 L 800,32 L 0,32 Z" class="titlebar" />
+  <line x1="0" y1="32" x2="800" y2="32" stroke="#1f2430" stroke-width="1" />
+  <rect class="win-icon-box" x="12" y="9" width="15" height="15" rx="3" />
+  <text xml:space="preserve" x="19.5" y="20" class="win-icon-txt" text-anchor="middle">&gt;_</text>
+  <text xml:space="preserve" x="36" y="20" class="term-title">aniket@kali: ~ (zsh)</text>
+  <text xml:space="preserve" x="756" y="20" class="win-ctrl">&#8212;</text>
+  <text xml:space="preserve" x="774" y="20" class="win-ctrl">&#9634;</text>
+  <text xml:space="preserve" x="794" y="20" class="win-ctrl">&#10005;</text>
+
+  <!-- Command 1 -->
+  <text xml:space="preserve" x="25" y="64" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="86" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">echo $STATUS</tspan></text>
+  <text xml:space="preserve" x="25" y="108" class="term-text out-status">hunting vulnerabilities.</text>
+
+  <!-- Command 2 -->
+  <text xml:space="preserve" x="25" y="142" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="164" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">cat interests.txt</tspan></text>
+  <text xml:space="preserve" x="25" y="186" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">NETWORK SECURITY</tspan></text>
+  <text xml:space="preserve" x="25" y="208" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">MITM &amp; PACKET ANALYSIS</tspan></text>
+  <text xml:space="preserve" x="25" y="230" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">DIGITAL FORENSICS</tspan></text>
+  <text xml:space="preserve" x="25" y="252" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">THREAT INTELLIGENCE</tspan></text>
+  <text xml:space="preserve" x="25" y="274" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">AI-ASSISTED SECURITY</tspan></text>
+  <text xml:space="preserve" x="25" y="296" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">RECON TOOLING</tspan></text>
+  <text xml:space="preserve" x="25" y="318" class="term-text"><tspan class="bullet">[+]</tspan> <tspan class="out-interest">SECURITY TOOLING</tspan></text>
+
+  <!-- Command 3 -->
+  <text xml:space="preserve" x="25" y="352" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="374" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">sudo nmap -sV aniket</tspan></text>
+  <text xml:space="preserve" y="396" class="term-text nmap-head"><tspan x="25">PORT</tspan><tspan x="130">STATE</tspan><tspan x="220">SERVICE</tspan></text>
+  <text xml:space="preserve" y="418" class="term-text"><tspan x="25" class="nmap-port">22/tcp</tspan><tspan x="130" class="nmap-open">open</tspan><tspan x="220" class="nmap-svc">ssh</tspan></text>
+  <text xml:space="preserve" y="440" class="term-text"><tspan x="25" class="nmap-port">443/tcp</tspan><tspan x="130" class="nmap-open">open</tspan><tspan x="220" class="nmap-svc">forensics</tspan></text>
+  <text xml:space="preserve" y="462" class="term-text"><tspan x="25" class="nmap-port">1337/tcp</tspan><tspan x="130" class="nmap-open">open</tspan><tspan x="220" class="nmap-svc">threat-intel</tspan></text>
+  <text xml:space="preserve" y="484" class="term-text"><tspan x="25" class="nmap-port">8080/tcp</tspan><tspan x="130" class="nmap-open">open</tspan><tspan x="220" class="nmap-svc">ai-defense</tspan></text>
+
+  <!-- Active prompt -->
+  <text xml:space="preserve" x="25" y="518" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="540" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cursor" fill="#00f0ff">_</tspan></text>
+
+  <rect class="scanline" width="100%" height="575" rx="8" pointer-events="none" />
+</svg>

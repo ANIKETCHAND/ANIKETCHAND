@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="100%" height="350">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;display=swap');
+
+      .bg { fill: #050505; }
+
+      .text-log {
+        font-family: 'Space Mono', monospace;
+        font-size: 13px;
+        fill: #00f0ff;
+        opacity: 0;
+        animation: fadeInLine 0.4s forwards;
+      }
+
+      .ascii {
+        font-family: 'Space Mono', monospace;
+        font-weight: 700;
+        font-size: 13px;
+        fill: #FCEE0A;
+        white-space: pre;
+        opacity: 0;
+        animation: fadeInLine 0.4s forwards;
+      }
+
+      .terminal-prompt {
+        font-family: 'Space Mono', monospace;
+        font-size: 13px;
+        fill: #e6edf3;
+        opacity: 0;
+        animation: fadeInLine 0.4s forwards;
+      }
+
+      .box { fill: #5c6370; }
+      .user-host { fill: #27c93f; font-weight: 700; }
+      .at { fill: #ff0055; font-weight: 700; }
+      .path { fill: #00f0ff; }
+      .dollar { fill: #ff0055; font-weight: 700; }
+      .cmd { fill: #FCEE0A; font-weight: 700; }
+
+      .win-title { fill: #7a7a7a; font-family: 'Space Mono', monospace; font-size: 11.5px; }
+      .win-ctrl { fill: #5c6370; font-family: 'Space Mono', monospace; font-size: 12px; }
+      .win-icon-box { fill: #0d1117; stroke: #00f0ff; stroke-width: 1; }
+      .win-icon-txt { fill: #00f0ff; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; }
+
+      .boot0 { animation-delay: 0.10s; }
+      .boot1 { animation-delay: 0.35s; }
+      .boot2 { animation-delay: 0.60s; }
+      .boot3 { animation-delay: 0.85s; }
+
+      .ascii-1 { animation-delay: 1.15s; }
+      .ascii-2 { animation-delay: 1.25s; }
+      .ascii-3 { animation-delay: 1.35s; }
+      .ascii-4 { animation-delay: 1.45s; }
+      .ascii-5 { animation-delay: 1.55s; }
+      .ascii-6 { animation-delay: 1.65s; }
+      .ascii-7 { animation-delay: 1.75s; }
+
+      .granted { animation-delay: 2.00s; }
+      .prompt-top { animation-delay: 2.30s; }
+      .prompt-bottom { animation-delay: 2.50s; }
+
+      @keyframes fadeInLine {
+        from { opacity: 0; transform: translateY(5px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      .cursor { animation: blink 0.8s infinite step-end; }
+      @keyframes blink { 50% { opacity: 0; } }
+
+      .scanline {
+        fill: url(#scanline-grad);
+        opacity: 0.15;
+        animation: scroll-scanline 6s infinite linear;
+      }
+
+      @keyframes scroll-scanline {
+        from { transform: translateY(-350px); }
+        to { transform: translateY(350px); }
+      }
+    </style>
+
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="100%" height="100%" rx="8" />
+
+  <!-- Titlebar (Linux-style: app icon + left title + minimize/maximize/close glyphs) -->
+  <path d="M 0,8 A 8,8 0 0,1 8,0 L 792,0 A 8,8 0 0,1 800,8 L 800,32 L 0,32 Z" fill="#12151a" />
+  <line x1="0" y1="32" x2="800" y2="32" stroke="#1f2430" stroke-width="1" />
+  <rect class="win-icon-box" x="12" y="9" width="15" height="15" rx="3" />
+  <text xml:space="preserve" x="19.5" y="20" class="win-icon-txt" text-anchor="middle">&gt;_</text>
+  <text xml:space="preserve" x="36" y="20" class="win-title">aniket@kali: ~ (zsh)</text>
+  <text xml:space="preserve" x="756" y="20" class="win-ctrl">&#8212;</text>
+  <text xml:space="preserve" x="774" y="20" class="win-ctrl">&#9634;</text>
+  <text xml:space="preserve" x="794" y="20" class="win-ctrl">&#10005;</text>
+
+  <!-- Boot log -->
+  <text xml:space="preserve" x="30" y="58" class="text-log boot0">[+] BOOTING KALI GNU/LINUX ROLLING...</text>
+  <text xml:space="preserve" x="30" y="78" class="text-log boot1">[+] INITIALIZING SECURE SHELL...</text>
+  <text xml:space="preserve" x="30" y="98" class="text-log boot2">[+] BYPASSING PERIMETER FIREWALLS...</text>
+  <text xml:space="preserve" x="30" y="118" class="text-log boot3">[+] AUTHENTICATING OPERATOR: ANIKET_CHANDRA...</text>
+
+  <!-- ASCII Art Banner: ANIKET (staggered load) -->
+  <text xml:space="preserve" x="30" y="148" class="ascii ascii-1">  ███   █     █ ███████ █    █  ███████ ███████</text>
+  <text xml:space="preserve" x="30" y="163" class="ascii ascii-2"> █   █  ██    █    █    █   █   █          █   </text>
+  <text xml:space="preserve" x="30" y="178" class="ascii ascii-3">█     █ █ █   █    █    █  █    █          █   </text>
+  <text xml:space="preserve" x="30" y="193" class="ascii ascii-4">███████ █  █  █    █    ███     █████      █   </text>
+  <text xml:space="preserve" x="30" y="208" class="ascii ascii-5">█     █ █   █ █    █    █  █    █          █   </text>
+  <text xml:space="preserve" x="30" y="223" class="ascii ascii-6">█     █ █    ██    █    █   █   █          █   </text>
+  <text xml:space="preserve" x="30" y="238" class="ascii ascii-7">█     █ █     █ ███████ █    █  ███████    █   </text>
+
+  <text xml:space="preserve" x="30" y="265" class="text-log granted">[+] ACCESS GRANTED. WELCOME OPERATOR.</text>
+
+  <!-- Kali-style two-line boxed prompt -->
+  <text xml:space="preserve" x="30" y="293" class="terminal-prompt prompt-top"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="30" y="315" class="terminal-prompt prompt-bottom"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">./initialize.sh</tspan><tspan class="cursor" fill="#00f0ff">_</tspan></text>
+
+  <rect class="scanline" width="100%" height="350" pointer-events="none" />
+</svg>

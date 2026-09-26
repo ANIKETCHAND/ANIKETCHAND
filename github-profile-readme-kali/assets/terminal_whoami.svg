@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 395" width="100%" height="395">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;display=swap');
+
+      .bg { fill: #050505; stroke: #1f2430; stroke-width: 1.5; }
+      .titlebar { fill: #12151a; }
+      .term-title { fill: #7a7a7a; font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 11.5px; }
+      .win-ctrl { fill: #5c6370; font-family: 'Space Mono', monospace; font-size: 12px; }
+      .win-icon-box { fill: #0d1117; stroke: #00f0ff; stroke-width: 1; }
+      .win-icon-txt { fill: #00f0ff; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; }
+
+      .term-text { font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13.5px; letter-spacing: 0.3px; }
+      .box { fill: #5c6370; }
+      .user-host { fill: #27c93f; font-weight: 700; }
+      .at { fill: #ff0055; font-weight: 700; }
+      .path { fill: #00f0ff; }
+      .dollar { fill: #ff0055; font-weight: 700; }
+      .cmd { fill: #FCEE0A; font-weight: 700; }
+
+      .skull { font-family: 'Space Mono', monospace; font-weight: 700; font-size: 13px; fill: #ff0055; white-space: pre; }
+      .skull-eye { fill: #00f0ff; }
+
+      .fetch-head { font-family: 'Space Mono', monospace; font-weight: 700; font-size: 17px; fill: #27c93f; }
+      .fetch-rule { font-family: 'Space Mono', monospace; font-size: 13px; fill: #3a4150; }
+      .fetch-line { font-family: 'Space Mono', monospace; font-size: 13.5px; }
+      .fetch-key { fill: #00f0ff; }
+      .fetch-val { fill: #e6edf3; }
+
+      .cursor { animation: blink 0.8s infinite step-end; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scanline { fill: url(#scanline-grad); opacity: 0.10; animation: scroll-scanline 6s infinite linear; }
+      @keyframes scroll-scanline { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+    </style>
+
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="100%" height="100%" rx="8" />
+  <path d="M 0,8 A 8,8 0 0,1 8,0 L 792,0 A 8,8 0 0,1 800,8 L 800,32 L 0,32 Z" class="titlebar" />
+  <line x1="0" y1="32" x2="800" y2="32" stroke="#1f2430" stroke-width="1" />
+  <rect class="win-icon-box" x="12" y="9" width="15" height="15" rx="3" />
+  <text xml:space="preserve" x="19.5" y="20" class="win-icon-txt" text-anchor="middle">&gt;_</text>
+  <text xml:space="preserve" x="36" y="20" class="term-title">aniket@kali: ~ (fastfetch)</text>
+  <text xml:space="preserve" x="756" y="20" class="win-ctrl">&#8212;</text>
+  <text xml:space="preserve" x="774" y="20" class="win-ctrl">&#9634;</text>
+  <text xml:space="preserve" x="794" y="20" class="win-ctrl">&#10005;</text>
+
+  <!-- Command -->
+  <text xml:space="preserve" x="25" y="54" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="76" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">fastfetch</tspan></text>
+
+  <!-- ASCII skull mark -->
+  <text xml:space="preserve" x="45" y="116" class="skull">   .-""""""-.</text>
+  <text xml:space="preserve" x="45" y="136" class="skull">  /  _    _  \</text>
+  <text xml:space="preserve" x="45" y="156" class="skull"> |  <tspan class="skull-eye">(o)</tspan>  <tspan class="skull-eye">(o)</tspan>  |</text>
+  <text xml:space="preserve" x="45" y="176" class="skull">  \    ..    /</text>
+  <text xml:space="preserve" x="45" y="196" class="skull">   \  '--'  /</text>
+  <text xml:space="preserve" x="45" y="216" class="skull">    '-.__.-'</text>
+  <text xml:space="preserve" x="45" y="236" class="skull">     |    |</text>
+  <text xml:space="preserve" x="45" y="256" class="skull">    /|    |\</text>
+  <text xml:space="preserve" x="45" y="276" class="skull">   / |    | \</text>
+
+  <!-- System info -->
+  <text xml:space="preserve" x="330" y="120" class="fetch-head">aniket@kali</text>
+  <text xml:space="preserve" x="330" y="138" class="fetch-rule">─────────────────────────</text>
+
+  <text xml:space="preserve" x="330" y="162" class="fetch-line"><tspan class="fetch-key">OS: </tspan><tspan class="fetch-val">Kali GNU/Linux Rolling x86_64</tspan></text>
+  <text xml:space="preserve" x="330" y="182" class="fetch-line"><tspan class="fetch-key">Host: </tspan><tspan class="fetch-val">Jain University B.Tech (Cyber Security)</tspan></text>
+  <text xml:space="preserve" x="330" y="202" class="fetch-line"><tspan class="fetch-key">Kernel: </tspan><tspan class="fetch-val">6.9.0-kali-amd64</tspan></text>
+  <text xml:space="preserve" x="330" y="222" class="fetch-line"><tspan class="fetch-key">Shell: </tspan><tspan class="fetch-val">zsh 5.9 + oh-my-zsh</tspan></text>
+  <text xml:space="preserve" x="330" y="242" class="fetch-line"><tspan class="fetch-key">Terminal: </tspan><tspan class="fetch-val">kitty</tspan></text>
+  <text xml:space="preserve" x="330" y="262" class="fetch-line"><tspan class="fetch-key">Tools: </tspan><tspan class="fetch-val">nmap, wireshark, metasploit, burp</tspan></text>
+  <text xml:space="preserve" x="330" y="282" class="fetch-line"><tspan class="fetch-key">Focus: </tspan><tspan class="fetch-val">MITM, forensics, threat-intel, AI defense</tspan></text>
+  <text xml:space="preserve" x="330" y="302" class="fetch-line"><tspan class="fetch-key">Memory: </tspan><tspan class="fetch-val">2 ideas / 16 tabs open</tspan></text>
+  <text xml:space="preserve" x="330" y="322" class="fetch-line"><tspan class="fetch-key">Status: </tspan><tspan class="fetch-val">hunting vulnerabilities.<tspan class="cursor" fill="#00f0ff">_</tspan></tspan></text>
+
+  <!-- Color swatches -->
+  <rect x="330" y="342" width="14" height="14" fill="#ff0055" />
+  <rect x="348" y="342" width="14" height="14" fill="#00f0ff" />
+  <rect x="366" y="342" width="14" height="14" fill="#FCEE0A" />
+  <rect x="384" y="342" width="14" height="14" fill="#27c93f" />
+  <rect x="402" y="342" width="14" height="14" fill="#ff8800" />
+  <rect x="420" y="342" width="14" height="14" fill="#b967ff" />
+  <rect x="438" y="342" width="14" height="14" fill="#5c6370" />
+  <rect x="456" y="342" width="14" height="14" fill="#e6edf3" />
+
+  <rect class="scanline" width="100%" height="395" rx="8" pointer-events="none" />
+</svg>

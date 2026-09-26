@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 98" width="100%" height="98">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;display=swap');
+      .bg { fill: #050505; stroke: #1f2430; stroke-width: 1.5; }
+      .titlebar { fill: #12151a; }
+      .term-title { fill: #7a7a7a; font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 11px; }
+      .win-ctrl { fill: #5c6370; font-family: 'Space Mono', monospace; font-size: 11px; }
+      .win-icon-box { fill: #0d1117; stroke: #00f0ff; stroke-width: 1; }
+      .win-icon-txt { fill: #00f0ff; font-family: 'Space Mono', monospace; font-size: 8px; font-weight: 700; }
+      .term-text { font-family: 'Space Mono', 'Fira Code', 'Courier New', Consolas, monospace; font-size: 13.5px; letter-spacing: 0.3px; }
+      .box { fill: #5c6370; }
+      .user-host { fill: #27c93f; font-weight: 700; }
+      .at { fill: #ff0055; font-weight: 700; }
+      .path { fill: #00f0ff; }
+      .dollar { fill: #ff0055; font-weight: 700; }
+      .cmd { fill: #FCEE0A; font-weight: 700; }
+      .cursor { animation: blink 0.8s infinite step-end; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scanline { fill: url(#scanline-grad); opacity: 0.10; animation: scroll-scanline 6s infinite linear; }
+      @keyframes scroll-scanline { from { transform: translateY(-100%); } to { transform: translateY(100%); } }
+    </style>
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f0ff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" width="100%" height="100%" rx="8" />
+  <path d="M 0,8 A 8,8 0 0,1 8,0 L 792,0 A 8,8 0 0,1 800,8 L 800,26 L 0,26 Z" class="titlebar" />
+  <line x1="0" y1="26" x2="800" y2="26" stroke="#1f2430" stroke-width="1" />
+  <rect class="win-icon-box" x="10" y="6" width="14" height="14" rx="3" />
+  <text xml:space="preserve" x="17" y="16.5" class="win-icon-txt" text-anchor="middle">&gt;_</text>
+  <text xml:space="preserve" x="32" y="17" class="term-title">aniket@kali: ~/projects</text>
+  <text xml:space="preserve" x="758" y="17" class="win-ctrl">&#8212;</text>
+  <text xml:space="preserve" x="776" y="17" class="win-ctrl">&#9634;</text>
+  <text xml:space="preserve" x="796" y="17" class="win-ctrl">&#10005;</text>
+
+  <text xml:space="preserve" x="25" y="50" class="term-text"><tspan class="box">┌──(</tspan><tspan class="user-host">aniket</tspan><tspan class="at">㉿</tspan><tspan class="user-host">kali</tspan><tspan class="box">)-[</tspan><tspan class="path">~</tspan><tspan class="box">]</tspan></text>
+  <text xml:space="preserve" x="25" y="72" class="term-text"><tspan class="box">└─</tspan><tspan class="dollar">$ </tspan><tspan class="cmd">ls -la ~/projects</tspan><tspan class="cursor" fill="#00f0ff"> _</tspan></text>
+
+  <rect class="scanline" width="100%" height="98" rx="8" pointer-events="none" />
+</svg>
